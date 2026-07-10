@@ -5,7 +5,7 @@
   <br>
   When I'm not buried in code, you'll find me vibing to music, lost in books, or on a movie binge. 
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=4000&pause=1000&color=FF9800&size=16&width=520&center=true&lines=Open-source+in+Scientific+Python.;Game+Engines.;CLI+tools." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=4000&pause=1000&color=FF9800&size=16&width=520&center=true&lines=Open-source+in+Scientific+Python.; CPython;CLI+tools." />
 </b></samp></p>
 
 <br>
