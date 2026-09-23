@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=16&duration=3500&pause=1200&color=4DABCF&center=true&vCenter=true&width=620&lines=hey%2C+i%27m+pratham;i+mostly+live+on+the+C+side+of+scientific+python" alt="hey, i'm pratham" />
+<p><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=16&duration=3500&pause=1200&color=4DABCF&center=true&vCenter=true&width=620&lines=hey%2C+i%27m+pratham;i+mostly+live+on+the+C+side+of+scientific+python" alt="hey, i'm pratham" /></p>
 
-<samp>
+<p><samp>
 off-screen: cinephile, pop culture enthusiast and serial show binger.
 <br>
 fueled by music and good food.
-</samp>
+</samp></p>
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/pratham-hole-60659b121/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:prathamhole.dev@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://medium.com/@prathamhole"><img src="https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://prathamhole14.github.io"><img src="https://img.shields.io/badge/website-24292F?style=flat-square&logo=githubpages&logoColor=white" alt="Website" /></a>
+<p>
+<a href="https://www.linkedin.com/in/pratham-hole-60659b121/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+<a href="mailto:prathamhole.dev@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square" alt="Email" /></a>
+<a href="https://medium.com/@prathamhole"><img src="https://img.shields.io/badge/medium-000000?style=flat-square" alt="Medium" /></a>
+<a href="https://prathamhole14.github.io"><img src="https://img.shields.io/badge/website-24292F?style=flat-square" alt="Website" /></a>
+</p>
 
 </div>
 
