@@ -48,5 +48,5 @@ Map plotting, contours, gallery examples and docs.
 <br>
 for roles or collabs: <a href="mailto:prathamhole.dev@gmail.com">prathamhole.dev@gmail.com</a></samp>
 <br><br>
-<samp><sub>also always happy to talk C extensions, spectra or the sun.</sub></samp>
+<samp><sub>also always happy to talk C extensions</sub></samp>
 </div>
